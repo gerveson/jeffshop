@@ -1,0 +1,16 @@
+header, .banner, footer{
+    border: 1px solid black;
+    text-align: center;
+}
+.banner{
+    padding: 30px 0;
+    text-align: center;
+}
+.itens{
+    padding: 10px 0;
+    border: 1px solid green;
+    text-align: center;
+}
+footer{
+    padding: 40px;
+}

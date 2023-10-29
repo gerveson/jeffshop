@@ -1,0 +1,28 @@
+{
+    "produtos" : [
+        {
+            "title" : "Fone de ouvido",
+            "description" : "Fone muito bom",
+            "img" : "https://img.freepik.com/vetores-premium/cracha-de-cafeteria-em-estilo-vintage_476121-79.jpg",
+            "price" : 349.00
+        },
+        {
+            "title" : "Fone de ouvido",
+            "description" : "Fone muito bom",
+            "img" : "https://img.freepik.com/vetores-premium/cracha-de-cafeteria-em-estilo-vintage_476121-79.jpg",
+            "price" : 349.00
+        },
+        {
+            "title" : "Fone de ouvido",
+            "description" : "Fone muito bom",
+            "img" : "https://img.freepik.com/vetores-premium/cracha-de-cafeteria-em-estilo-vintage_476121-79.jpg",
+            "price" : 349.00
+        },
+        {
+            "title" : "Fone de ouvido",
+            "description" : "Fone muito bom",
+            "img" : "https://img.freepik.com/vetores-premium/cracha-de-cafeteria-em-estilo-vintage_476121-79.jpg",
+            "price" : 349.00
+        }
+    ]
+}
